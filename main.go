@@ -11,7 +11,7 @@ import (
 
 func main() {
 
-	cfg := flag.String("c", "cfg.json", "configuration file")
+	cfg := flag.String("c", "cfg.example.json", "configuration file")
 	version := flag.Bool("v", false, "show version")
 
 	flag.Parse()
