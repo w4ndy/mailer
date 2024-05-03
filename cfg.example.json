@@ -6,7 +6,7 @@
         "whitelist": "127.0.0.1,192.168.90.0/24"
     },
     "smtp": {
-        "addr": "smtp.163.com:25",
+        "addr": "smtp.qiye.aliyun.com:25",
         "user": "user@163.com",
         "pass": "password",
         "spliter": ",",
